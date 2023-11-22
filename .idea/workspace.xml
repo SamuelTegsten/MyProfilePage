@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec17dcd3-6bb9-42db-97cc-b5f2b1be0215" name="Changes" comment="">
+    <list default="true" id="ec17dcd3-6bb9-42db-97cc-b5f2b1be0215" name="Changes" comment="VERSION 1.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about-perfil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/home-perfil.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/project-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/project-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/project-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,23 +23,26 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2YV87cRMBgWgdQFMp7E4qxIpgBG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Pages",
+    "last_opened_file_path": "C:/Users/GTSA Infinity/IdeaProjects/responsive-portfolio-website-samuel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/responsive-portfolio-website-rian/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
@@ -65,10 +62,23 @@
       <option name="presentableId" value="Default" />
       <updated>1700599220010</updated>
       <workItem from="1700599221277" duration="28544000" />
+      <workItem from="1700681434421" duration="1300000" />
     </task>
+    <task id="LOCAL−00001" summary="VERSION 1.">
+      <option name="closed" value="true" />
+      <created>1700681519732</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1700681519732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VERSION 1." />
+    <option name="LAST_COMMIT_MESSAGE" value="VERSION 1." />
   </component>
 </project>
