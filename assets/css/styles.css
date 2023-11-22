@@ -1100,7 +1100,7 @@ body.dark-theme{
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 400px) {
   .container{
     margin-inline: 1rem ;
   }
@@ -1124,6 +1124,14 @@ body.dark-theme{
 
   .contact__data .section__title-2{
     transform: translateX(0);
+  }
+
+  .home__social-link{
+    display: none;
+  }
+
+  .home__social-link i{
+    display: none;
   }
 }
 
