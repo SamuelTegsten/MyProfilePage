@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec17dcd3-6bb9-42db-97cc-b5f2b1be0215" name="Changes" comment="VERSION 1.2">
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profile_image.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Pages",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/GTSA Infinity/IdeaProjects/responsive-portfolio-website-samuel",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,6 +64,7 @@
       <updated>1700599220010</updated>
       <workItem from="1700599221277" duration="28544000" />
       <workItem from="1700681434421" duration="2214000" />
+      <workItem from="1725434500824" duration="1482000" />
     </task>
     <task id="LOCAL−00001" summary="VERSION 1.">
       <option name="closed" value="true" />
